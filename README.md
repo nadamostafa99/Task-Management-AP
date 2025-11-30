@@ -1,8 +1,8 @@
-📌 TaskManagerAPI
+TaskManagerAPI
 A clean and secure Task Management REST API built with ASP.NET Core Web API, Entity Framework Core, and SQL Server.
 This project provides a complete backend system with authentication, authorization, user management, and advanced task features.
 
-🚀 Features
+Features:
 🔐 Authentication & Authorization
 
 User registration & login
